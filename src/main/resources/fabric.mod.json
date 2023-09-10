@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "awesomehud",
+	"version": "${version}",
+	"name": "AwesomeHud",
+	"description": "Awesome hud",
+	"authors": [
+		"Supchikwork2"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Supchik22/AwesomeHud"
+	},
+	"license": "MIT-1.0",
+	"icon": "assets/awesomehud/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.supchikwork.awesomehud"
+		],
+		"client": [
+			"com.supchikwork.awesomehudClient"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
