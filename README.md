@@ -1,4 +1,4 @@
-# AwesomeHud
+# AwesomeHud :mushroom:
 AwesomeHUD is a simple client-side Minecraft mod that adds a useful hud to the screen.
 
 ## Features:
