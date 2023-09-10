@@ -1,4 +1,4 @@
 # AwesomeHud
 Awesome hud mod
 
-[https://i.imgur.com/ytHd9rP.png]
+!(work)[https://i.imgur.com/ytHd9rP.png]
